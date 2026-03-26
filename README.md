@@ -17,7 +17,7 @@
 
 ## Tổng quan
 
-Notebook `01_preprocessing.ipynb` thực hiện **toàn bộ quá trình chuẩn bị dữ liệu** trước khi đưa vào huấn luyện mô hình CNN. Đây là bước quan trọng nhất trong pipeline — một preprocessing sai có thể làm hỏng toàn bộ quá trình training dù model tốt đến đâu.
+Notebook `skin_disease_preprocessing.ipynb` thực hiện **toàn bộ quá trình chuẩn bị dữ liệu** trước khi đưa vào huấn luyện mô hình CNN. Đây là bước quan trọng nhất trong pipeline — một preprocessing sai có thể làm hỏng toàn bộ quá trình training dù model tốt đến đâu.
 
 **Mục tiêu:**
 - Phân tích và hiểu rõ đặc điểm dataset
